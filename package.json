@@ -1,6 +1,6 @@
 {
   "name": "nativity-fomatto",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "nativity plugin to install fomatto onto native String prototype.",
   "main": "index.js",
   "scripts": {
